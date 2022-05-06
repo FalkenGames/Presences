@@ -274,3 +274,4 @@ else if (page.startsWith("/anime/")) {
 
 if (presenceData.details && presenceData.state)
     presence.setActivity(presenceData);
+})
