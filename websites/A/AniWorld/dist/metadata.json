@@ -1,0 +1,22 @@
+{
+    "$schema": "https://schemas.premid.app/metadata/1.7",
+    "author": {
+      "name": "- ̗̀ Falken Games ̖́- // Mark",
+      "id": "293785748392640513"
+    },
+    "service": "AniWorld",
+    "description": {
+      "en": "AniWorld is a free anime streaming Plattform"
+    },
+    "url": "aniworld.to",
+    "version": "1.0.0",
+    "logo": "https://aniworld.to/public/img/facebook.jpg?v=2",
+    "thumbnail": "https://aniworld.to/public/img/facebook.jpg",
+    "color": "#637cfa",
+    "category": "anime",
+    "tags": [
+      "Anime",
+      "Streaming"
+    ],
+    "iframe": true
+  }
