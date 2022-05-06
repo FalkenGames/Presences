@@ -1,3 +1,4 @@
+
 const iframe = new iFrame();
 iframe.on("UpdateData", async () => {
 	const { hostname } = window.location;

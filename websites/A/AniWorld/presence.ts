@@ -1,3 +1,4 @@
+
 //Code from the old AniCloud Presence from Emijor
 const presence = new Presence({
     clientId: "972216930754756638"
@@ -273,4 +274,3 @@ else if (page.startsWith("/anime/")) {
 
 if (presenceData.details && presenceData.state)
     presence.setActivity(presenceData);
-});
